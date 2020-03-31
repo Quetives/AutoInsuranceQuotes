@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoInsuranceQuotes", "AutoInsuranceQuotes\AutoInsuranceQuotes.csproj", "{983E05E8-7929-4C21-888A-EC72F50D29D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983E05E8-7929-4C21-888A-EC72F50D29D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983E05E8-7929-4C21-888A-EC72F50D29D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983E05E8-7929-4C21-888A-EC72F50D29D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983E05E8-7929-4C21-888A-EC72F50D29D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07425A9-ABF5-44AC-8AF4-652BA1CA4395}
+	EndGlobalSection
+EndGlobal
